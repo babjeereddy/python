@@ -1,0 +1,20 @@
+import array
+arr =array.array('i',[10,20,30,40])
+# print(arr)
+# print(type(arr))
+# print(arr[0])
+# for i in arr:
+#     print(i)
+# arr[0]=20
+# print(arr[0])
+arr.append(100)
+print(arr)
+arr.reverse()
+print(arr)
+arr.pop()
+print(arr)
+arr.remove(30)
+print(arr)
+print(arr.count(40))
+arr.extend([10,90,300])
+print(arr)

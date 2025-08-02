@@ -1,0 +1,17 @@
+#big o n
+def binary_search(lst,trg):
+    left,right=0,len(lst)-1
+    while left <= right:
+        mid = (left + right) // 2
+        if lst[mid] == trg:
+            return mid
+        elif lst[mid] < trg:
+            left = mid + 1
+        else:
+            right = mid - 1
+    return -1
+# Example usage
+lst = [10, 20, 30, 40, 50, 60]
+target = 30
+result = binary_search(lst, target)
+print(result)  # Output: 2  
