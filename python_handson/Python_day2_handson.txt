@@ -1,0 +1,35 @@
+1 Write a program that takes two numbers as input and prints the result of addition, subtraction, multiplication, division, and modulus.
+
+Example Input:
+a = 10
+b = 3
+Expected Output:
+
+Addition: 13
+Subtraction: 7
+Multiplication: 30
+Division: 3.333...
+Modulus: 1
+
+2 Even or Odd using Modulus Operator
+Check whether a given number is even or odd using the modulus operator.
+
+Example Input: num = 17
+Output: Odd
+
+3 Logical Operators – Voting Eligibility
+
+Write a program that checks if a person is eligible to vote (age ≥ 18 and citizen = True).
+
+Input: age = 20, citizen = True
+Output: Eligible to vote
+
+
+4  Bitwise AND/OR/XOR
+Given two integers, print the result of bitwise AND, OR, and XOR.
+Input: a = 5, b = 3
+Output:
+
+AND: 1
+OR: 7
+XOR: 6

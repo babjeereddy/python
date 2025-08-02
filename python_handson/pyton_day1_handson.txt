@@ -1,0 +1,25 @@
+1 Print the following exactly:
+Name: John
+Age: 25
+City: New York
+
+2 Print Without Newline
+Print the following on a single line:
+Hello World!
+But use two print() statements.
+
+3 Print this exact output using a single print() line:
+Python > is > fun!
+Hint: Use sep argument.
+
+4 Print the name in a box like this
++--------+
+|  John  |
++--------+
+
+5 Greet the User
+Ask the user for their name and greet them.
+Input
+Alice
+Output
+Hello, Alice!

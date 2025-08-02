@@ -1,0 +1,27 @@
+1 Count Vowels in a String
+Write a function count_vowels(s) that returns the number of vowels in a string.
+
+Input: "hello"
+Output: 2
+
+2 Write a function sum_all(*args) that returns the sum of all arguments passed.
+
+Input: sum_all(1, 2, 3, 4)
+Output: 10
+
+3 Lambda with map(): Double Elements
+
+Use map() and a lambda to double each element in the list.
+
+Input: [1, 2, 3]
+Output: [2, 4, 6]
+
+4  Filter Even Numbers with Lambda
+
+Use filter() and a lambda to return only even numbers from a list.
+
+Input: [1, 2, 3, 4, 5, 6]
+Output: [2, 4, 6]
+
+
+
